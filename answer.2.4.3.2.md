@@ -1,4 +1,4 @@
-## Binary to hex
+## CIDR to subnet mask
 
 |CIDR/N|binary                             |subnet mask    |
 |------|-----------------------------------|---------------|
